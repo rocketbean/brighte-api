@@ -1,0 +1,106 @@
+{
+  "users": {
+    "delivery": [
+      {
+        "name": "deliverytest user1",
+        "mobile": "1",
+        "postcode": "1234",
+        "email": "delivery1@test.com"
+      },
+      {
+        "name": "deliverytest user2",
+        "mobile": "2",
+        "postcode": "1234",
+        "email": "delivery2@test.com"
+      },
+      {
+        "name": "deliverytest user3",
+        "mobile": "3",
+        "postcode": "1234",
+        "email": "delivery3@test.com"
+      },
+      {
+        "name": "delivery test user4",
+        "mobile": "4",
+        "postcode": "1234",
+        "email": "delivery4@test.com"
+      },
+      {
+        "name": "delivery test user5",
+        "mobile": "5",
+        "postcode": "1234",
+        "email": "delivery5@test.com"
+      }
+    ],
+    "pick-up": [
+      {
+        "name": "picktest user1",
+        "mobile": "6",
+        "postcode": "1234",
+        "email": "picktest1@test.com"
+      },
+      {
+        "name": "picktest user2",
+        "mobile": "7",
+        "postcode": "1234",
+        "email": "picktest2@test.com"
+      }
+    ],
+    "payment": [
+      {
+        "name": "paymenttest user1",
+        "mobile": "8",
+        "postcode": "1234",
+        "email": "paymenttest1@test.com"
+      },
+      {
+        "name": "paymenttest user2",
+        "mobile": "9",
+        "postcode": "1234",
+        "email": "paymenttest2@test.com"
+      },
+      {
+        "name": "paymenttest user3",
+        "mobile": "10",
+        "postcode": "1234",
+        "email": "paymenttest3@test.com"
+      },
+      {
+        "name": "paymenttest user4",
+        "mobile": "11",
+        "postcode": "1234",
+        "email": "paymenttest4@test.com"
+      },
+      {
+        "name": "paymenttest user5",
+        "mobile": "12",
+        "postcode": "1234",
+        "email": "paymenttest5@test.com"
+      },
+      {
+        "name": "paymenttest user6",
+        "mobile": "13",
+        "postcode": "1234",
+        "email": "paymenttest6@test.com"
+      },
+      {
+        "name": "paymenttest user7",
+        "mobile": "14",
+        "postcode": "1234",
+        "email": "paymenttest7@test.com"
+      }
+    ]
+  },
+
+  "product": {
+    "name": "Brighte Eats"
+  },
+  "checker": {
+    "productName": "Brighte Eats",
+    "leads": {
+      "delivery": 5,
+      "pick-up": 2,
+      "payment": 7
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "test product"
+    },
+    {
+      "name": "Brighte Eats"
+    }
+  ],
+
+  "services": [
+    { "name": "delivery" },
+    { "name": "pick-up" },
+    { "name": "payment" }
+  ],
+  "lead": {
+    "name": "view"
+  }
+}

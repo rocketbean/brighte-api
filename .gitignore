@@ -1,0 +1,16 @@
+src/container/html/web/temp
+src/package/statics/logs/*
+src/package/statics/logs/*
+dist/package/statics/logs/*
+statics/*
+_security/*
+node_modules
+.vscode
+certs
+.log
+.session
+package-lock.json
+dist/*
+.gitmodules
+rest.http
+notes

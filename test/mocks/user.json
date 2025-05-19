@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "test user",
+      "mobile": "123456",
+      "postcode": "1234",
+      "email": "test@test.com"
+    },
+    {
+      "name": "second user",
+      "mobile": "654321",
+      "postcode": "4321",
+      "email": "second@test.com"
+    }
+  ]
+}
