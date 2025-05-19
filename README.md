@@ -5,7 +5,7 @@ Nikko Mesina
 
 > Notes before running the node app;
 
-_please install the dependencies before anything else_
+_after cloning this repo, please install the dependencies before anything else_
 
 ```
   $ npm install
