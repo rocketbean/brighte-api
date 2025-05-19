@@ -56,6 +56,14 @@ or
   $ npm run start
 ```
 
+both commands will generate a [./dist] folder which contains javascript files that will run the server.
+
+### App specifications:
+- Database: mysql
+- nodejs: ^16.0.0
+- typescript: ^5.7.3
+- prisma: ^6.8.2
+
 <hr/>
 
 # chasi-ts
